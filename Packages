@@ -1,0 +1,30 @@
+
+Package: com.osama.FirstRelease
+Version: 1.0
+Section: Tweaks
+Maintainer: osama <arabfono@hotmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/A Test Tweak.deb
+Size: 3826 
+MD5sum: c92d4235cdbdd334224f66ed611fc0e0
+Description: This is a test package.
+Name: Test package
+Author: osama <arabfono@hotmail.com>
+Depiction: A Test tweak
+
+
+Package: my
+Name:Osama Pubg HackMod
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: hackem Mod Menu by Osama
+Maintainer: Osama
+Author: Osama
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 252
+Filename: ./debs/OsamaPubgHack.deb
+Size: 257504 
+MD5sum: b9bb9f18dc66e33a09af88ede4525bf4
+Depiction: https://arabfono.github.io/osama/depictions/?p=OsamaPubgHack
