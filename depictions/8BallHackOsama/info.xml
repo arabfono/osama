@@ -10,9 +10,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Game By Osama</shortDescription>
+	<shortDescription>Coins Game By Osama</shortDescription>
 	<descriptionlist>
-		<description>Game By Osama</description>
+		<description>Coins Game By Osama</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
@@ -21,7 +21,7 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Game By Osama</description>
+			<description>Coins By Osama</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
