@@ -1,0 +1,39 @@
+<package>
+	<id>my</id>
+	<name>8 Ball Poll Hack</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Game Hack Mod By Osama</shortDescription>
+	<descriptionlist>
+		<description>Game Hack Mod By Osama</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Infinity Coins/description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Download videos from social media apps</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.arabfono.com</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
